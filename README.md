@@ -1,5 +1,5 @@
 # FadimeAkgul.github.io/
-
+git clone https://github.com/FadimeAkgul/FadimeAkgul.github.io
 cd username.github.io
 
 <!DOCTYPE html>
