@@ -1,1 +1,2 @@
-git clone https://github.com/FadimeAkgul/FadimeAkgul.github.io
+cd username.github.io
+echo "Hello World" > index.html
